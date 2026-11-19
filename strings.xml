@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LUDO 804</string>
+    <string name="title_activity_main">LUDO 804</string>
+    <string name="package_name">com.kaptaan804.ludo</string>
+    <string name="custom_url_scheme">com.kaptaan804.ludo</string>
+    <!-- Replace with your live Google AdMob App ID from AdMob Console before Play Store release -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
